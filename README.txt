@@ -15,6 +15,6 @@ This is a **text-based slot machine game** built using Python. Players can **dep
 - **NumPy** (for random slot machine spins)  
 - **Time** (for timed spin)  
 
- Requirements  
-- Python 3.x  
+ Requirements
 - NumPy (`pip install numpy`)  
+- Python
