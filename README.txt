@@ -1,4 +1,4 @@
-My first ever project!
+My first ever mini-project!
 #  Slot Machine Game  
 
 # Description  
